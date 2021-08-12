@@ -1,8 +1,7 @@
-## Welcome to "Hello World" with GitHub Actions
+ "Hello Creator" with GitHub Actions
 
 This course will walk you through writing your first action and using it with a workflow file. 
 
-**Ready to get started? Navigate to the first issue.**
 
 We start by creating the docker file and adding it to a newly made repository 
 
